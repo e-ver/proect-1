@@ -4,7 +4,7 @@ def counts(x):
     count = 0
     while x > 0:
         x //= 10
-        count += 1
+        count += 2
     return count
 spce()
 x = 233
