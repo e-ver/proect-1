@@ -14,6 +14,6 @@ print('XOXOXO', x)
 print('__________________________________________')
 =======
 print('XOXOXO',x)
+print('end programm')
 
 
->>>>>>> 8588dbada495f778a2fe7faedc9f57a821f7c368
